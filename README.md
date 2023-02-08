@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript Node Express MongoDB HTML CSS**
 
-- 📫 How to reach me **vashsihtnikhil158@gmail.com**
+<!-- - 📫 How to reach me **vashsihtnikhil158@gmail.com** -->
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fD7AWQO8sJAaH3oqe1sK7ix1Ou5moPiO/view?usp=sharing](https://drive.google.com/file/d/1fD7AWQO8sJAaH3oqe1sK7ix1Ou5moPiO/view?usp=sharing)
 
