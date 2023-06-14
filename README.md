@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611745b4649e65ad509de95aee8e787d2cb83bd5bec&rid=giphy.gif&ct=g" alt="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishranikhil15&label=Profile%20views&color=0e75b6&style=flat" alt="mishranikhil15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishranikhil15" alt="mishranikhil15" /></a> </p>
